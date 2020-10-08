@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b176dd7-58d8-4c31-9af2-1043dd9b6de2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1iVU6NfzKm8h5JBFSuQfeNlTUh1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../wamp64/bin/php/php7.4.0/php.ini" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.PHPVoorBeginners">
+    <configuration name="PHPVoorBeginners" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/index.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.PHPVoorBeginners" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b176dd7-58d8-4c31-9af2-1043dd9b6de2" name="Default Changelist" comment="" />
+      <created>1601992076776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601992076776</updated>
+      <workItem from="1601992077967" duration="3329000" />
+      <workItem from="1601995426302" duration="1614000" />
+      <workItem from="1602000179560" duration="2097000" />
+      <workItem from="1602076622423" duration="24000" />
+      <workItem from="1602076657951" duration="1359000" />
+      <workItem from="1602160029341" duration="673000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="85" key="#CLI_Interpreters" timestamp="1602078002016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="436" y="84" key="#CLI_Interpreters/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001577920" />
+    <state x="349" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1601997042997" />
+    <state x="436" y="85" key="#CLI_Interpreters/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602078002016" />
+    <state x="594" y="70" key="#PHP" timestamp="1602078013803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="594" y="69" key="#PHP/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001482054" />
+    <state x="475" y="55" key="#PHP/0.0.1536.824@0.0.1536.824" timestamp="1601996143094" />
+    <state x="594" y="70" key="#PHP/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602078013803" />
+    <state x="352" y="57" key="#SSH_Configurations" timestamp="1601993630763">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="352" y="57" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1601993630763" />
+    <state x="279" y="0" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602078015831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="279" y="0" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001579042" />
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601997043888" />
+    <state x="279" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602078015831" />
+    <state x="861" y="208" key="FileChooserDialogImpl" timestamp="1602080572157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="861" y="206" key="FileChooserDialogImpl/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001437065" />
+    <state x="689" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601995959321" />
+    <state x="861" y="208" key="FileChooserDialogImpl/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602080572157" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1601995378102">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601995378102" />
+  </component>
+</project>
