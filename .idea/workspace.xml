@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b176dd7-58d8-4c31-9af2-1043dd9b6de2" name="Default Changelist" comment="" />
+    <list default="true" id="0b176dd7-58d8-4c31-9af2-1043dd9b6de2" name="Default Changelist" comment="....">
+      <change afterPath="$PROJECT_DIR$/Create your account at Free Web Hosting Area.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,18 +13,25 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1iVU6NfzKm8h5JBFSuQfeNlTUh1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../wamp64/bin/php/php7.4.0/php.ini" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -61,12 +71,25 @@
       <workItem from="1602000179560" duration="2097000" />
       <workItem from="1602076622423" duration="24000" />
       <workItem from="1602076657951" duration="1359000" />
-      <workItem from="1602160029341" duration="673000" />
+      <workItem from="1602160029341" duration="1546000" />
     </task>
+    <task id="LOCAL-00001" summary="....">
+      <created>1602164409840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602164409840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="...." />
+    <option name="LAST_COMMIT_MESSAGE" value="...." />
   </component>
   <component name="WindowStateProjectService">
     <state x="436" y="85" key="#CLI_Interpreters" timestamp="1602078002016">
@@ -91,15 +114,40 @@
     <state x="279" y="0" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001579042" />
     <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601997043888" />
     <state x="279" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602078015831" />
-    <state x="861" y="208" key="FileChooserDialogImpl" timestamp="1602080572157">
+    <state x="861" y="208" key="FileChooserDialogImpl" timestamp="1602164382282">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="861" y="206" key="FileChooserDialogImpl/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001437065" />
     <state x="689" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601995959321" />
+    <state x="861" y="208" key="FileChooserDialogImpl/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164382282" />
     <state x="861" y="208" key="FileChooserDialogImpl/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602080572157" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1602164355968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355968" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1602164355968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355968" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1602164355967">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355967" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1602164355968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355968" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1601995378102">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601995378102" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1602164539310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164539310" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602164603946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164603946" />
   </component>
 </project>
