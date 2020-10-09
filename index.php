@@ -11,13 +11,16 @@
         #h1:hover{
             background: yellow;
         }
+        #h2:hover{
+            background: yellow;
+        }
     </style>
 </head>
 <body>
 <h1>PHP voor beginners 2020</h1>
 <h2>Daan Swart</h2>
 <h3><a id="h1" href="h01/index.php">Hoofdstuk 1</a></h3>
-<h3><a href="">Hoofdstuk 2</a></h3>
+<h3><a id="h2" href="h02/index.php">Hoofdstuk 2</a></h3>
 <h3><a href="">Hoofdstuk 3</a></h3>
 <h3><a href="">Hoofdstuk 4</a></h3>
 <h3><a href="">Hoofdstuk 5</a></h3>
