@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    font-family: 'Nova Square', cursive;
+    text-align: center;
+    background: #1A1E23;
+
+    font-size: 40px ;
+
+
+}
+h1{
+    color: rgba(119,123,179, 0.5);
+}
+h2{
+
+    color: #6469B3;
+}
+ul {
+    margin-right: 40px;
+    list-style-type: none;
+
+}
+
+
+li {
+    padding: 6px 0;
+
+}
+a {
+    --fill-color: rgb(0, 174, 190);
+    display: block;
+    padding: 10px 10px;
+    font: 700 35px Raleway, sans-serif;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-text-stroke: 2px var(--fill-color);
+    color: transparent;
+    background: linear-gradient(var(--fill-color) 0 100%) left / 0 no-repeat;
+    -webkit-background-clip: text;
+
+}
+
+a:hover {
+    background-size: 100%;
+
+}
+
+
+
+
+
+

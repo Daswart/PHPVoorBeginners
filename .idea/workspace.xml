@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b176dd7-58d8-4c31-9af2-1043dd9b6de2" name="Default Changelist" comment="....">
-      <change afterPath="$PROJECT_DIR$/Create your account at Free Web Hosting Area.pdf" afterDir="false" />
+    <list default="true" id="0b176dd7-58d8-4c31-9af2-1043dd9b6de2" name="Default Changelist" comment="h02 af!">
+      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/hs2-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Create your account at Free Web Hosting Area.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/h02/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/h02/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h02/opdracht1.php" beforeDir="false" afterPath="$PROJECT_DIR$/h02/opdracht1.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +37,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,16 +59,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HTML-CSS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHPUnit.PHPVoorBeginners">
+  <component name="RunManager" selected="PHP Script.index.php">
     <configuration name="PHPVoorBeginners" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
       <TestRunner directory="$PROJECT_DIR$" />
       <method v="2" />
@@ -49,6 +89,10 @@
       </CommandLine>
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="PHP Script.index.php" />
+      <item itemvalue="PHPUnit.PHPVoorBeginners" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="PHPUnit.PHPVoorBeginners" />
@@ -72,6 +116,12 @@
       <workItem from="1602076622423" duration="24000" />
       <workItem from="1602076657951" duration="1359000" />
       <workItem from="1602160029341" duration="1546000" />
+      <workItem from="1602165461520" duration="24000" />
+      <workItem from="1602225203528" duration="5621000" />
+      <workItem from="1602235693493" duration="7034000" />
+      <workItem from="1602501784315" duration="13484000" />
+      <workItem from="1602522735224" duration="370000" />
+      <workItem from="1602530743706" duration="1598000" />
     </task>
     <task id="LOCAL-00001" summary="....">
       <created>1602164409840</created>
@@ -80,24 +130,75 @@
       <option name="project" value="LOCAL" />
       <updated>1602164409840</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Eerste file">
+      <created>1602165807957</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602165807957</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Links aangemaakt voor de alle hoofdstukken">
+      <created>1602228762033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602228762033</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Html met link naar index php toegevoegd.">
+      <created>1602236810622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602236810622</updated>
+    </task>
+    <task id="LOCAL-00005" summary="h02 af!">
+      <created>1602247309541</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602247309541</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="...." />
-    <option name="LAST_COMMIT_MESSAGE" value="...." />
+    <MESSAGE value="....." />
+    <MESSAGE value="Eerste file" />
+    <MESSAGE value="Links aangemaakt voor de alle hoofdstukken" />
+    <MESSAGE value="Html met link naar index php toegevoegd." />
+    <MESSAGE value="h02 af!" />
+    <option name="LAST_COMMIT_MESSAGE" value="h02 af!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="436" y="85" key="#CLI_Interpreters" timestamp="1602078002016">
+    <state x="436" y="85" key="#CLI_Interpreters" timestamp="1602243908435">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="436" y="84" key="#CLI_Interpreters/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001577920" />
     <state x="349" y="67" key="#CLI_Interpreters/0.0.1536.824@0.0.1536.824" timestamp="1601997042997" />
+    <state x="436" y="85" key="#CLI_Interpreters/0.0.1920.1040/-1920.113.1536.824@0.0.1920.1040" timestamp="1602243908435" />
+    <state x="436" y="85" key="#CLI_Interpreters/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602168767942" />
     <state x="436" y="85" key="#CLI_Interpreters/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602078002016" />
+    <state x="552" y="178" key="#Deployment" timestamp="1602166139541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Deployment/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602166139541" />
     <state x="594" y="70" key="#PHP" timestamp="1602078013803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,43 +209,63 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="352" y="57" key="#SSH_Configurations/0.0.1536.824@0.0.1536.824" timestamp="1601993630763" />
-    <state x="279" y="0" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602078015831">
+    <state x="279" y="0" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602243912937">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="279" y="0" width="1092" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001579042" />
     <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1601997043888" />
+    <state x="279" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.113.1536.824@0.0.1920.1040" timestamp="1602243912937" />
+    <state x="279" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602168783548" />
     <state x="279" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602078015831" />
-    <state x="861" y="208" key="FileChooserDialogImpl" timestamp="1602164382282">
+    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602242863431">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="861" y="206" key="FileChooserDialogImpl/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001437065" />
-    <state x="689" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601995959321" />
-    <state x="861" y="208" key="FileChooserDialogImpl/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164382282" />
-    <state x="861" y="208" key="FileChooserDialogImpl/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602080572157" />
-    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1602164355968">
+    <state x="718" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.113.1536.824@0.0.1920.1040" timestamp="1602242863431" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602244316205">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355968" />
-    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1602164355968">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355968" />
-    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1602164355967">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355967" />
-    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1602164355968">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164355968" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1601995378102">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.113.1536.824@0.0.1920.1040" timestamp="1602244316205" />
+    <state x="689" y="165" key="FileChooserDialogImpl" timestamp="1602226337376">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601995378102" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1602164539310">
+    <state x="861" y="206" key="FileChooserDialogImpl/-1920.0.1536.824/0.0.1920.1030@0.0.1920.1030" timestamp="1602001437065" />
+    <state x="689" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602226337376" />
+    <state x="861" y="208" key="FileChooserDialogImpl/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602165482807" />
+    <state x="861" y="208" key="FileChooserDialogImpl/1920.115.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602080572157" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom" timestamp="1602177729769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602177729769" />
+    <state width="938" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602169656837" />
+    <state width="938" height="282" key="GridCell.Tab.0.center" timestamp="1602177729769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602177729769" />
+    <state width="938" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602169656837" />
+    <state width="938" height="282" key="GridCell.Tab.0.left" timestamp="1602177729769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602177729769" />
+    <state width="938" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602169656837" />
+    <state width="938" height="282" key="GridCell.Tab.0.right" timestamp="1602177729769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602177729769" />
+    <state width="938" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602169656837" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1602165775724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602164539310" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602165775724" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602228884527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602228884527" />
+    <state x="553" y="240" key="Vcs.Push.Dialog.v2" timestamp="1602247316392">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="442" y="190" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602230766844" />
+    <state x="553" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.113.1536.824@0.0.1920.1040" timestamp="1602247316392" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.115.1536.824@0.0.1920.1040" timestamp="1602165813444" />
     <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1602164603946">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
