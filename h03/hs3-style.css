@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,400i,700");
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+
+    text-align: center;
+    background: #1A1E23;
+
+    font-size: 35px ;
+    font-family: Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+
+
+
+}
+h1{
+    color: rgba(119,123,179, 0.5);
+}
+
+ul {
+    margin-right: 40px;
+    list-style-type: none;
+
+}
+
+
+li {
+    padding: 6px 0;
+
+}
+a {
+
+    font: 35px Raleway, sans-serif;
+    text-decoration: none;
+    color: rgb(0, 174, 190)
+}
+a:hover{
+    color: #6469B3;
+}
+
