@@ -14,18 +14,18 @@
 
         }
 
-        tr, td {
-            border: 1px solid gray;
-
-
+        table, tr, td{
+            border-collapse: collapse;
         }
 
         td {
             padding: 2px 45px 2px 8px;
         }
 
-        td.no-border {
-            border: none;
+        .border {
+            border: 1px solid gray;
+
+
         }
 
     </style>
@@ -39,27 +39,24 @@ $zwemclubs["Plonsmderin"] = 11;
 $zwemclubs["Bommetje"] = 23;
 
 echo "<table>";
-foreach ($zwemclubs as $zwemclub => $aantaalLeden){
+foreach ($zwemclubs as $zwemclub => $aantaalLeden) {
     echo "<tr>";
-    echo "<td>" .$zwemclub. "</td>";
-    echo "<td>" . $aantaalLeden . "</td>";
+    echo "<td class='border'>" . $zwemclub . "</td>";
+    echo "<td class='border'>" . $aantaalLeden . "</td>";
     $aantalPlaatjes = floor($aantaalLeden / 5);
     echo "<td>";
-    for ($i = 0; $i < $aantalPlaatjes; $i++){
+    for ($i = 0; $i < $aantalPlaatjes; $i++) {
         echo "<img src='../img/zwemmer.jpg' alt='plaatje van zwemmer'>";
     }
     echo "</td>";
     echo "<tr>";
+
 
 }
 "</table>";
 
 
 ?>
-
-
-
-
 
 
 <?php
