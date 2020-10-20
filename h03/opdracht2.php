@@ -6,22 +6,17 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
-        body{
-            text-align: center;
-        }
+
     </style>
-    <title></title>
+    <title>H3 opdracht 2</title>
 </head>
 <body>
 <?php
-for ($i = 0; $i <= 9; $i++) {
-    for ($x = 0; $x < $i; $x++) {
-        echo '*';
+ $katten = array('kat1.jpg', 'kat2.jpg', 'kat3.jpg', 'kat4.jpg', 'kat5.jpg', 'kat6.jpg', 'kat7.jpg', 'kat8.jpg', 'kat9.jpg');
 
-    }
-    echo '<br>';
-}
-
+ foreach ($katten as $kat){
+    echo "<img src='../img/".$kat."'>";
+ }
 ?>
 
 </body>
