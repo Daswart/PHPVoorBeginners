@@ -5,9 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <style>
 
-    </style>
     <title>H3 opdracht 2</title>
 </head>
 <body>
@@ -18,6 +16,8 @@
     echo "<img src='../img/".$kat."'>";
  }
 ?>
+<br>
+<a href="index3.php"><< naar index hoofdstuk 3</a>
 
 </body>
 </html>

@@ -6,9 +6,10 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <style>
-        body{
+        body {
             text-align: center;
         }
+
     </style>
     <title>H3 opdracht 3</title>
 </head>
@@ -23,6 +24,7 @@ for ($i = 0; $i <= 9; $i++) {
 }
 
 ?>
+<a href="index3.php"><< naar index hoofdstuk 3</a>
 
 </body>
 </html>

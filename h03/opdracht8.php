@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>H3 opdracht 8</title>
+
 </head>
 <body>
 <?php
@@ -17,15 +18,19 @@ $kappersagenda["10.15"] = "Karel de Meeuw";
 $kappersagenda["10.30"] = "";
 
 print "Deze tijden zijn nog beschikbaar:<ul>";
-foreach ($kappersagenda as $tijd => $afspraak)
-
+foreach ($kappersagenda as $tijd => $afspraak){
     if ($afspraak == "") {
         print "<li>" . $tijd . "</li>";
 
     }
+}
 
 
+
+print '</ul>'
 ?>
+<br>
+<a href="index3.php"><< naar index hoofdstuk 3</a>
 
 
 </body>

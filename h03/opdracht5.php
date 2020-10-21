@@ -20,6 +20,7 @@
             opacity: 0.7;
             
         }
+
     </style>
 </head>
         
@@ -38,6 +39,8 @@ for ($i = 1; $i <= 9; $i++){
 }
 
 ?>
+<br>
+<a href="index3.php"><< naar index hoofdstuk 3</a>
 
 </body>
 </html>

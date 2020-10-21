@@ -13,9 +13,13 @@
             height: 20px;
 
         }
+        table{
+
+        }
 
         table, tr, td{
             border-collapse: collapse;
+
         }
 
         td {
@@ -27,6 +31,12 @@
 
 
         }
+        a{
+            position: relative;
+            top: 150px;
+
+        }
+
 
     </style>
 </head>
@@ -56,52 +66,14 @@ foreach ($zwemclubs as $zwemclub => $aantaalLeden) {
 "</table>";
 
 
+
 ?>
+<a href="index3.php"><< naar index hoofdstuk 3</a>
 
 
-<?php
-/*$zwemclubs["De spartelkuikens"] = 25;
-$zwemclubs["De waterbuffels"] = 32;
-$zwemclubs["Plonsmderin"] = 11;
-$zwemclubs["Bommetje"] = 23;
 
-foreach ($zwemclubs as $zwemclub => $aantalLeden) {
-    if ($aantalLeden >= 5 && $aantalLeden < 10) {
-        echo $zwemclub . " " . $aantalLeden . "";
-    } elseif ($aantalLeden >= 10 && $aantalLeden < 15) {
-        echo $zwemclub . " " . $aantalLeden . " ";
-        for ($i = 0; $i < 2; $i++) {
-            echo "<img src='../img/zwemmer.jpg'>";
-            if($i == 1 ){
-                echo "<br>";
-            }
-        }
-    } elseif ($aantalLeden >= 15 && $aantalLeden < 20) {
-        echo $zwemclub . " " . $aantalLeden . " ";
-        for ($i = 0; $i < 3; $i++) {
-            echo "<img src='../img/zwemmer.jpg'>";
-        }
-    } elseif ($aantalLeden >= 20 && $aantalLeden < 25) {
-        echo $zwemclub . " " . $aantalLeden . " ";
-        for ($i = 0; $i < 4; $i++) {
-            echo "<img src='../img/zwemmer.jpg'>";
-        }
-    } elseif ($aantalLeden >= 25 && $aantalLeden < 30) {
-        echo $zwemclub . " " . $aantalLeden . " ";
-        for ($i = 0; $i < 5; $i++) {
-            echo "<img src='../img/zwemmer.jpg'>";
-        }
-    } elseif ($aantalLeden >= 30) {
-        echo $zwemclub . " " . $aantalLeden . " ";
-        for ($i = 0; $i < 6; $i++) {
-            echo "<img src='../img/zwemmer.jpg'>";
-        }
-    } else {
-        echo "niks";
-    }
 
-}*/
-?>
+
 
 
 </body>
