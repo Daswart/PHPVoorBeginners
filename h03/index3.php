@@ -11,14 +11,14 @@
 </head>
 <body>
 <h1>Hoofdstuk 3</h1>
-<h3><a href="">Opdracht 1</a></h3>
-<h3><a href="">Opdracht 2</a></h3>
-<h3><a href="">Opdracht 3</a></h3>
-<h3><a href="">Opdracht 4</a></h3>
-<h3><a href="">Opdracht 5</a></h3>
-<h3><a href="">Opdracht 6</a></h3>
-<h3><a href="">Opdracht 7</a></h3>
-<h3><a href="">Opdracht 8</a></h3>
+<h3><a href="opdracht1.php">Opdracht 1</a></h3>
+<h3><a href="opdracht2.php">Opdracht 2</a></h3>
+<h3><a href="opdracht3.php">Opdracht 3</a></h3>
+<h3><a href="opdracht4.php">Opdracht 4</a></h3>
+<h3><a href="opdracht5.php">Opdracht 5</a></h3>
+<h3><a href="opdracht6.php">Opdracht 6</a></h3>
+<h3><a href="opdracht7.php">Opdracht 7</a></h3>
+<h3><a href="opdracht8.php">Opdracht 8</a></h3>
 <br>
 <a href="../index.php">Naar index van PHP voor beginners</a>
 </body>
