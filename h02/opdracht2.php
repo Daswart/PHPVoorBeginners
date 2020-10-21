@@ -17,6 +17,6 @@ echo 'Mens' . $b . ' ' . $a . $b . ' mak' . $b . ', werk' . $b . ' ' . $c;
 <body>
 <br>
 <br>
-<a href="index.php">Naar index Hoofdstuk 2</a>
+<a href="index2.php">Naar index Hoofdstuk 2</a>
 </body>
 </html>

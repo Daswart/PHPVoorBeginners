@@ -16,6 +16,6 @@ echo "De cursus " . $a . " met " . $c . "rstellingen\" " . "kan vanavond helaas 
 <body>
 <br>
 <br>
-<a href="index.php">Naar index Hoofdstuk 2</a>
+<a href="index2.php">Naar index Hoofdstuk 2</a>
 </body>
 </html>

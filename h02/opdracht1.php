@@ -20,6 +20,6 @@ echo $a . '. Ik heb alleen ' . $c . ' manieren gevonden ' . $b  . '.';
 <body>
 <br>
 <br>
-<a href="index.php">Naar index Hoofdstuk 2</a>
+<a href="index2.php">Naar index Hoofdstuk 2</a>
 </body>
 </html>

@@ -16,6 +16,6 @@ echo 'T' . $a . ' and ' . $c . ', but never ' . $c . ' to t' . $a . '.';
 <body>
 <br>
 <br>
-<a href="index.php">Naar index Hoofdstuk 2</a>
+<a href="index2.php">Naar index Hoofdstuk 2</a>
 </body>
 </html>
