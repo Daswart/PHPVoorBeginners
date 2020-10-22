@@ -6,7 +6,12 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>H4 opdracht 3</title>
-    <style></style>
+    <style>
+        body{
+            text-align: center;
+            font-size: 30px;
+        }
+    </style>
 </head>
 <body>
 <?php
