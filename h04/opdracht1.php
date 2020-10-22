@@ -9,6 +9,7 @@
     <style>
         body{
             text-align:  center;
+            font-size: 30px;
         }
     </style>
 </head>
@@ -26,7 +27,7 @@ for ($x = -20; $x <=20; $x++){
 function celsiusToFahrenheit($celsius)
 {
     $fahrenheit = $celsius / 5 * 9 + 32;
-    echo $celsius . "°C" . " =" . $fahrenheit . "°F". "<br>";
+    echo $celsius . "°C" . " = " . $fahrenheit . "°F". "<br>";
 }
 
 
