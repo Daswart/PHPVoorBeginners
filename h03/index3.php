@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="hs3-style.css">
     <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
-    <title>Hoofdstuk 2 php</title>
+    <title>Hoofdstuk 3 php</title>
 </head>
 <body>
 <h1>Hoofdstuk 3</h1>
