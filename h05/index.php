@@ -15,7 +15,7 @@
 <h3><a href="opdracht2.html">Opdracht 2</a></h3>
 <h3><a href="opdracht3.html">Opdracht 3</a></h3>
 <h3><a href="opdracht4.html">Opdracht 4</a></h3>
-<h3><a href="">Opdracht 5</a></h3>
+<h3><a href="opdracht5.php">Opdracht 5</a></h3>
 <a href="../index.php">Naar index van PHP voor beginners</a>
 
 </body>
