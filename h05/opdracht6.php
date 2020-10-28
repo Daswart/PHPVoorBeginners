@@ -15,10 +15,17 @@ $users = [
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Opdracht 5</title>
+    <title>H05 Opdracht 6</title>
     <style>
+      table{
+          margin: 0 auto 0 auto;
+      }
+
         div {
             color: red;
+            font-weight: bolder;
+            text-align: center;
+
         }
     </style>
 </head>
@@ -26,9 +33,22 @@ $users = [
 <!--//WANNEER ER NOG NIET OP DE KNOP IS GEDRUKT -->
 <?php if (!isset($_POST['knop'])) { ?>
     <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="POST">
-        Email: <input type="Email" name="emailadres" value=""><br>
-        Wachtwoord: <input type="password" name="wachtwoord" value=""><br>
-        <input type="submit" name="knop" value="Verstuur">
+        <table>
+            <tr>
+                <td>Email:</td>
+                <td><input type="Email" name="emailadres" value=""></td>
+            </tr>
+            <tr>
+                <td>Wachtwoord:</td>
+                <td><input type="password" name="wachtwoord" value=""></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type="submit" name="knop" value="Verstuur"></td>
+            </tr>
+        </table>
+
+
 
 
     </form>
@@ -46,12 +66,12 @@ $users = [
     //kijken of een variabel bestaat of leeg is (valideren gegevens)
     //!isset (false) om te kijken of het bestaat, empty om te kijken of het leeg is
     if (!isset($_POST["emailadres"]) or empty($_POST["emailadres"])) {
-        $_SESSION['error'] = "je bent vergeten je email-adres in te vullen.";
+        $_SESSION['error'] = "<div>Je bent vergeten je email-adres in te vullen.</div>";
         header("Location:" . $_SERVER["PHP_SELF"]);
 
     }
     if (!isset($_POST["wachtwoord"]) or empty($_POST["wachtwoord"])) {
-        $_SESSION['error'] = "je bent vergeten je wachtwoord in te vullen.";
+        $_SESSION['error'] = "<div>Je bent vergeten je wachtwoord in te vullen.</div>";
         header("Location:" . $_SERVER["PHP_SELF"]);
 
     }
