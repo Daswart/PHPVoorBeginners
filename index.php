@@ -19,7 +19,7 @@
     <li><a id="h3" href="h03/index3.php">Hoofdstuk 3</a></li>
     <li><a href="h04/index.php">Hoofdstuk 4</a></li>
     <li><a href="h05/index.php">Hoofdstuk 5</a></li>
-    <li><a href="">Hoofdstuk 6</a></li>
+    <li><a href="h06/index.php">Hoofdstuk 6</a></li>
     <li><a href="">Hoofdstuk 7</a></li>
 </ul>
 
