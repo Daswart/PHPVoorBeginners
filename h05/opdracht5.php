@@ -17,11 +17,16 @@ $users = [
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>H05 Opdracht 5</title>
     <style>
+
+        table {
+            margin: 0 auto 0 auto;
+        }
+
         div {
             color: red;
-        }
-        table{
-            margin: 0 auto 0 auto;
+            font-weight: bolder;
+            text-align: center;
+
         }
     </style>
 </head>
@@ -42,9 +47,8 @@ $users = [
                 <td><input type="submit" name="knop" value="Verstuur"></td>
             </tr>
         </table>
-         <br>
-         <br>
-
+        <br>
+        <br>
 
 
     </form>
@@ -60,12 +64,12 @@ $users = [
     //kijken of een variabel bestaat of leeg is (valideren gegevens)
     //!isset (false) om te kijken of het bestaat, empty om te kijken of het leeg is
     if (!isset($_POST["emailadres"]) or empty($_POST["emailadres"])) {
-        $_SESSION['error'] = "je bent vergeten je email-adres in te vullen.";
+        $_SESSION['error'] = "<div>je bent vergeten je email-adres in te vullen.</div>";
         header("Location:" . $_SERVER["PHP_SELF"]);
 
     }
     if (!isset($_POST["wachtwoord"]) or empty($_POST["wachtwoord"])) {
-        $_SESSION['error'] = "je bent vergeten je wachtwoord in te vullen.";
+        $_SESSION['error'] = "<div>je bent vergeten je wachtwoord in te vullen.</div>";
         header("Location:" . $_SERVER["PHP_SELF"]);
 
     }
