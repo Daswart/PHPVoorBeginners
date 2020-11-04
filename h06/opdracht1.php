@@ -7,12 +7,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>H6 opdracht 1</title>
     <style>
-        table,tr,th,td{
+        table, tr, th, td {
             border: 1px solid black;
             border-collapse: collapse;
             padding: 10px;
+
         }
-        th{
+
+        }
+        th {
             width: 40px;
 
         }
@@ -21,7 +24,7 @@
 </head>
 <body>
 <table>
-   <!-- host en port veranderen van lokaal naar online bij uploaden naar online server-->
+    <!-- host en port veranderen van lokaal naar online bij uploaden naar online server-->
     <?php
     //$host = 'sql310.epizy.com';
     //$port = '3306';
@@ -34,7 +37,7 @@
 
     //proberen connectie maken met de database via het object PDO.
     try {
-        $conn = new PDO('mysql:host='.$host.';dbname='.$dbname.';port='.$port, $username, $password);
+        $conn = new PDO('mysql:host=' . $host . ';dbname=' . $dbname . ';port=' . $port, $username, $password);
         //echo "Connected successfully";
 
         //laat dit zien bij het niet kunnen maken van de connectie
