@@ -1,4 +1,6 @@
 <?php
+
+
 //Login gegevens die in de database staan
 //piet@worldonline.nl - doetje123
 //klaas@carpets.nl - snoepje777
@@ -110,6 +112,11 @@ try {
         </table>
 
     </form>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
 
 
     </body>
@@ -117,6 +124,14 @@ try {
 
     </html>
 <?php
+
+
+
+
+
+
+
+
 
 
 ?>
