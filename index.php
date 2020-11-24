@@ -14,13 +14,13 @@
 <h1>PHP voor beginners 2020</h1>
 <h2>Daan Swart</h2>
 <ul>
-    <li><a id="h1" href="h01/index.php">Hoofdstuk 1</a></h3></Li>
-    <li><a id="h2" href="h02/index2.php">Hoofdstuk 2</a></li>
-    <li><a id="h3" href="h03/index3.php">Hoofdstuk 3</a></li>
+    <li><a href="h01/index.php">Hoofdstuk 1</a></h3></Li>
+    <li><a href="h02/index2.php">Hoofdstuk 2</a></li>
+    <li><a href="h03/index3.php">Hoofdstuk 3</a></li>
     <li><a href="h04/index.php">Hoofdstuk 4</a></li>
     <li><a href="h05/index.php">Hoofdstuk 5</a></li>
     <li><a href="h06/index.php">Hoofdstuk 6</a></li>
-    <li><a href="">Hoofdstuk 7</a></li>
+    <li><a href="h07/index.php">Hoofdstuk 7</a></li>
 </ul>
 
 
