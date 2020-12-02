@@ -7,33 +7,38 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>H4 opdracht 1</title>
     <style>
-        body{
-            text-align:  center;
+        #center {
+            text-align: center;
             font-size: 30px;
+        }
+
+        a {
+            position: fixed;
+
         }
     </style>
 </head>
 <body>
-<?php
+<a href="index.php"><< naar index hoofdstuk 4</a>
+<div id="center">
+    <?php
 
-//testen of de functie met meerdere getallen werkt, middels een for-loop
-//de loop loopt van -20 t/m 20 en laat de resultaat van de conversie ( van °C naar F°) zien.
-for ($x = -20; $x <=20; $x++){
+    //testen of de functie met meerdere getallen werkt, middels een for-loop
+    //de loop loopt van -20 t/m 20 en laat de resultaat van de conversie ( van °C naar F°) zien.
+    for ($x = -20; $x <= 20; $x++) {
         celsiusToFahrenheit($x);
-}
+    }
 
-// EIGEN GEMAAKTE FUNCTIE
-//functie die celsius omzet in fahrenheit
-function celsiusToFahrenheit($celsius)
-{
-    $fahrenheit = $celsius / 5 * 9 + 32;
-    echo $celsius . "°C" . " = " . $fahrenheit . "°F". "<br>";
-}
-
-
+    // EIGEN GEMAAKTE FUNCTIE
+    //functie die celsius omzet in fahrenheit
+    function celsiusToFahrenheit($celsius)
+    {
+        $fahrenheit = $celsius / 5 * 9 + 32;
+        echo $celsius . "°C" . " = " . $fahrenheit . "°F" . "<br>";
+    }
 
 
-?>
-
+    ?>
+</div>
 </body>
 </html>

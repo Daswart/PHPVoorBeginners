@@ -11,9 +11,9 @@
 </head>
 <body>
 <h1>Hoofdstuk 4</h1>
-<h3><a href="opdracht1.php">Opdracht 1</a></h3>
-<h3><a href="opdracht2.php">Opdracht 2</a></h3>
-<h3><a href="opdracht3.php">Opdracht 3</a></h3>
-<a href="../index.php">Naar index van PHP voor beginners</a>
+<h3><a href="opdracht1.php">1: Celsius naar Fahrenheit</a></h3>
+<h3><a href="opdracht2.php">2: deelbaar door 3 </a></h3>
+<h3><a href="opdracht3.php">3: string in omgekeerde volgorde</a></h3>
+<a href="../index.php"><< Naar index van PHP voor beginners</a>
 </body>
 </html>
