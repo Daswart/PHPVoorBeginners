@@ -74,6 +74,8 @@
     }
     ?>
 </table>
+<br>
+<a href="index.php"><< naar index hoofdstuk 6</a>
 
 
 </body>

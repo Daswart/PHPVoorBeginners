@@ -36,11 +36,10 @@ try {
                 )
             );
             $count = $statement->rowCount();
-            if($count > 0){
+            if ($count > 0) {
                 $_SESSION['username'] = $_POST['username'];
                 header("location:login_succes.php");
-            }
-            else{
+            } else {
                 $message = '<label class="required">Sorry, geen toegang!</label>';
             }
         }
@@ -64,34 +63,37 @@ try {
         body {
             text-align: center;
         }
-        form{
+
+        form {
 
         }
-        table, tr, td{
+
+        table, tr, td {
             margin: 0 auto 0 auto;
             text-align: left;
 
 
         }
-        td{
+
+        td {
             padding: 3px;
         }
-        .required{
+
+        .required {
             color: red;
             font-weight: bolder;
-
 
 
         }
     </style>
     <body>
     <?php
-    if (isset($message)){
+    if (isset($message)) {
         echo $message;
     }
     ?>
 
-    <form  method="post">
+    <form method="post">
         <table>
             <tr>
                 <td>Username:</td>
@@ -101,37 +103,27 @@ try {
 
             <tr>
                 <td>Password:</td>
-                <td> <input type="password" name="password" placeholder="password"></td>
+                <td><input type="password" name="password" placeholder="password"></td>
             </tr>
 
             <tr>
                 <td></td>
-                <td><button type="submit" name="submit" value="">Verzenden</button></td>
+                <td>
+                    <button type="submit" name="submit" value="">Verzenden</button>
+                </td>
             </tr>
 
         </table>
 
     </form>
-    <ul>
-        <li></li>
-        <li></li>
-        <li></li>
-    </ul>
-
+    <br>
+    <a href="index.php"><< naar index hoofdstuk 6</a>
 
     </body>
 
 
     </html>
 <?php
-
-
-
-
-
-
-
-
 
 
 ?>

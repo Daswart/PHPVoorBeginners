@@ -11,11 +11,11 @@
 </head>
 <body>
 <h1>Hoofdstuk 6</h1>
-<h3><a href="opdracht1.php">Opdracht 1</a></h3>
-<h3><a href="opdracht2.php">Opdracht 2</a></h3>
+<h3><a href="opdracht1.php">1: Laat alle cursisten zien uit de school-database</a></h3>
+<h3><a href="opdracht2.php">2: Login formulier met database-connectie</a></h3>
 
 
-<a href="../index.php">Naar index van PHP voor beginners</a>
+<a href="../index.php"> << Naar index van PHP voor beginners</a>
 
 </body>
 </html>
