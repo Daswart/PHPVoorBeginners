@@ -11,13 +11,13 @@
 </head>
 <body>
 <h1>Hoofdstuk 5</h1>
-<h3><a href="form.html">Opdracht 1</a></h3>
-<h3><a href="opdracht2.html">Opdracht 2</a></h3>
-<h3><a href="opdracht3.html">Opdracht 3</a></h3>
-<h3><a href="opdracht4.html">Opdracht 4</a></h3>
-<h3><a href="opdracht5.php">Opdracht 5</a></h3>
-<h3><a href="opdracht6.php">Opdracht 6</a></h3>
-<a href="../index.php">Naar index van PHP voor beginners</a>
+<h3><a href="form.html">1: dynamische website -formulier doorsturen</a></h3>
+<h3><a href="opdracht2.html">2: dynamische website - registreren voor een website </a></h3>
+<h3><a href="opdracht3.html">3: Beasties - dier uit een lijst kiezen</a></h3>
+<h3><a href="opdracht4.html">4: Beasties - meerdere dieren uit een lijst kiezen</a></h3>
+<h3><a href="opdracht5.php">5: login formulier</a></h3>
+<h3><a href="opdracht6.php">6: login formulier die een boolean teruggeeft</a></h3>
+<a href="../index.php"> << Naar index van PHP voor beginners</a>
 
 </body>
 </html>

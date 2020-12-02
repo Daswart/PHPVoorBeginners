@@ -8,6 +8,8 @@ if ($_POST["naam"] == "" || $_POST["adres"] == "" || $_POST["email"] == "" || $_
     echo $_POST["naam"] . "<br>";
     echo $_POST["adres"] . "<br>";
     echo $_POST["email"] . "<br>";
+    echo "<br><a href='opdracht2.html'><< Ga terug naar het formulier</a> <br>";
+
 
 
 }

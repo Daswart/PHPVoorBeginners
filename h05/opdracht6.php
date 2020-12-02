@@ -3,8 +3,7 @@ session_start();
 $users = [
     "piet@worldonline.nl" => "doetje123",
     "klaas@carpets.nl" => "snoepje777",
-    "truushendriks@wegweg.nl" => "arkiearkie201",
-    "daandeprogrammeur@hotmail.com" => "lekkerbezig!100"
+    "truushendriks@wegweg.nl" => "arkiearkie201"
 ];
 ?>
 
@@ -17,15 +16,28 @@ $users = [
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>H05 Opdracht 6</title>
     <style>
-      table{
-          margin: 0 auto 0 auto;
-      }
+        table {
+            margin: 0 auto 0 auto;
+        }
 
         div {
             color: red;
             font-weight: bolder;
             text-align: center;
 
+        }
+
+        #center {
+            font-weight: lighter;
+            text-align: center;
+        }
+        #relative{
+            position: relative;
+            top: 25px;
+        }
+
+        table {
+            margin: 0 auto 0 auto;
         }
     </style>
 </head>
@@ -47,8 +59,6 @@ $users = [
                 <td><input type="submit" name="knop" value="Verstuur"></td>
             </tr>
         </table>
-
-
 
 
     </form>
@@ -96,15 +106,46 @@ $users = [
     }
 
     if (check_credantials($emailadres, $wachtwoord) == true) {
+        echo "<a href='opdracht6.php' id='relative'><< Terug</a>";
         exit("Welkom!");
+
+
     } else {
+        echo "<a href='opdracht6.php' id='relative'><< Terug</a>";
         exit("Sorry geen toegang!");
+
     }
 
 
 }
 ?>
+<br>
+<div id= "center">
+    <a href="index.php"><< naar index hoofdstuk 5</a>
+</div>
+<br>
+<table>
+    <tr style="font-weight: bold">
+        <td>De gegevens om in te loggen</td>
+    </tr>
+    <tr>
+        <th>email</th>
+        <th>wachtwoord</th>
+    </tr>
+    <tr>
 
+        <td>piet@worldonline.nl</td>
+        <td>doetje123</td>
+    </tr>
+    <tr>
+        <td>klaas@carpets.nl</td>
+        <td> snoepje777</td>
+    </tr>
+    <tr>
+        <td>truushendriks@wegweg.nl</td>
+        <td>arkiearkie201</td>
+    </tr>
+</table>
 
 </body>
 </html>
