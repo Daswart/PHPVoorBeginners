@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../hs-style.css">
     <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
-    <title>Hoofdstuk 1 php</title>
+    <title>H1 php</title>
 </head>
 <body>
 <h1>Hoofdstuk 1</h1>
