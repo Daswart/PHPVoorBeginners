@@ -7,15 +7,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../hs-style.css">
     <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
-    <title>Hoofdstuk 2 php</title>
+    <title>H2 php</title>
 </head>
 <body>
 <h1>Hoofdstuk 2</h1>
-<h3><a href="opdracht1.php">Opdracht 1</a></h3>
-<h3><a href="opdracht2.php">Opdracht 2</a></h3>
-<h3><a href="opdracht3.php">Opdracht 3</a></h3>
-<h3><a href="opdracht4.php">Opdracht 4</a></h3>
+<h3><a href="opdracht1.php">1: zin op het scherm printen</a></h3>
+<h3><a href="opdracht2.php">2: zin op het scherm printen</a></h3>
+<h3><a href="opdracht3.php">3: zin op het scherm printen</a></h3>
+<h3><a href="opdracht4.php">4: zin op het scherm printen</a></h3>
 <br>
-<a href="../index.php">Naar index van PHP voor beginners</a>
+<a href="../index.php"><< Naar index van PHP voor beginners</a>
 </body>
 </html>
