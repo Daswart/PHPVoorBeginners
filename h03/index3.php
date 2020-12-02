@@ -7,19 +7,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="../hs-style.css">
     <link href="https://fonts.googleapis.com/css2?family=Nova+Square&display=swap" rel="stylesheet">
-    <title>Hoofdstuk 3 php</title>
+    <title>H3 php</title>
 </head>
 <body>
 <h1>Hoofdstuk 3</h1>
-<h3><a href="opdracht1.php">Opdracht 1</a></h3>
-<h3><a href="opdracht2.php">Opdracht 2</a></h3>
-<h3><a href="opdracht3.php">Opdracht 3</a></h3>
-<h3><a href="opdracht4.php">Opdracht 4</a></h3>
-<h3><a href="opdracht5.php">Opdracht 5</a></h3>
-<h3><a href="opdracht6.php">Opdracht 6</a></h3>
-<h3><a href="opdracht7.php">Opdracht 7</a></h3>
-<h3><a href="opdracht8.php">Opdracht 8</a></h3>
+<h3><a href="opdracht1.php">1: afbeeldingen tonen met een for-loop</a></h3>
+<h3><a href="opdracht2.php">2: afbeeldingen tonen met een for-loop (met een array)</a></h3>
+<h3><a href="opdracht3.php">3: teken een kerstboom</a></h3>
+<h3><a href="opdracht4.php">4: van while naar for-loop</a></h3>
+<h3><a href="opdracht5.php">5: afbeeldingen tonen met rode en groene rand</a></h3>
+<h3><a href="opdracht6.php">6: busreis</a></h3>
+<h3><a href="opdracht7.php">7: zwemclubs</a></h3>
+<h3><a href="opdracht8.php">8: kapperszaak Sanders</a></h3>
 <br>
-<a href="../index.php">Naar index van PHP voor beginners</a>
+<a href="../index.php"> << Naar index van PHP voor beginners</a>
 </body>
 </html>
