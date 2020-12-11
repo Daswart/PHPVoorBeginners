@@ -6,6 +6,7 @@ $websiteAdmin = '';
 $message = 'Inloggen';
 $websiteGebruiker = '';
 $error = '';
+$uitloggen = '';
 
 
 
@@ -21,7 +22,6 @@ $users = array(
 
 
 if (isset($_GET["loguit"])) {
-    $_SESSION = array();
     session_destroy();
 }
 //Als er op de knop verzenden is gedrukt is gedrukt en de waarde username en array $users bestaat.
@@ -48,6 +48,7 @@ if (isset($_POST["submit"])){
                 //anders dan janjaap, linkjes verschijnen pas bij een succesvolle login
                 $websiteGebruiker = "<br><a href= 'gebruiker.php?loguit'>naar de website >></a>";
                 $websiteAdmin = "<br><a href= 'administrator.php?loguit'>naar de adminwebsite >></a>";
+                echo "<a href='opdracht1.php?loguit'>uitloggen</a>";
             } //Wanneer gebruikersnaam en wachtwoord niet overeenkomen.
             else {
                 //Waneeer er geen password is ingevoerd.
@@ -88,7 +89,8 @@ else {
     if (!empty($_SESSION)) {
         $message = "Welkom " . $_SESSION['user']["naam"] . ", je bent nog steeds ingelogd</span>";
         $websiteGebruiker = "<a href= 'gebruiker.php?loguit'>naar de website >></a><br>";
-        $websiteAdmin = "<a href= 'administrator.php?loguit'>naar de adminwebsite >></a>";
+        $websiteAdmin = "<a href= 'administrator.php?loguit'>naar de adminwebsite >></a><br>";
+        $uitloggen =  "<a href='opdracht1.php?loguit'>uitloggen</a>";
 
 
     }
@@ -134,6 +136,7 @@ else {
 <?php echo $error; ?>
 <?php echo $websiteGebruiker; ?>
 <?php echo $websiteAdmin; ?>
+<?php echo $uitloggen; ?>
 
 
 <?php if (empty($_SESSION)) { ?>
@@ -159,9 +162,10 @@ else {
 <?php } ?>
 <br>
 
-<a href='opdracht1.php?loguit'>uitloggen</a>
 
-<br>
+
+<br><br>
+<a href="index.php"><< naar index hoofdstuk 7</a>
 
 
 </body>
